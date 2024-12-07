@@ -1,4 +1,4 @@
-## Oiii eu sou a Thiagoella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hey guys 🖖🏽, eu sou o Thiago, apaixonado por tecnologia e mundo Geek!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsdeveloper&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=prussian&show_icons=true)
 
