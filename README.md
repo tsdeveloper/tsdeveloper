@@ -1,7 +1,7 @@
 ## Hey guys 🖖🏽, eu sou o Thiago, apaixonado por tecnologia e mundo Geek!
 <div style="display: flex; align-items: flex-start;">
   <a href="https://github.com/tsdeveloper/tsdeveloper">
-  <img height:180em src="https://github-readme-stats.vercel.app/api?username=tsdeveloper&show=include_all_commits&count_private=true&theme=dracula&show_icons=true" >
+  <img height:180em src="https://github-readme-stats.vercel.app/api?username=tsdeveloper&show=include_all_commits&theme=dracula&show_icons=true" >
   <img height:180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsdeveloper&theme=dracula">
 </div>
 
